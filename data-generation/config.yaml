@@ -1,0 +1,24 @@
+# Configuración Centralizada - Prueba Técnica FinBank S.A.
+generation_params:
+  seed: 42
+  start_date: "2025-06-01"
+  end_date: "2026-06-01"
+  null_rate: 0.05
+  anomaly_rate_obligaciones: 0.01
+  anomaly_rate_movimientos: 0.005
+
+target_volumes:
+  tb_sucursales_red: 200
+  tb_productos_cat: 50
+  tb_clientes_core: 10000
+  tb_obligaciones: 30000
+  tb_mov_financieros: 500000
+  tb_comisiones_log: 80000
+
+database_source:
+  engine: "postgresql"
+  host: "localhost"
+  port: 5433
+  user: "postgres"
+  database: "dataknow"
+  password: "postgres"

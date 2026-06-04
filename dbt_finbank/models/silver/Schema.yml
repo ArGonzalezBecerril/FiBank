@@ -1,0 +1,31 @@
+version: 2
+
+models:
+  - name: silver_clientes
+    description: "Tabla maestra de clientes limpia con datos PII enmascarados"
+    columns:
+      - name: id_cli
+        tests:
+          - unique    # Test 1: Valida que no haya IDs de cliente repetidos
+          - not_null  # Test 2: Valida que ningún cliente venga sin ID
+
+  - name: silver_mov_financieros
+    description: "Movimientos financieros validados y tipados"
+    columns:
+      - name: id_mov
+        tests:
+          - unique    # Test 3: Valida unicidad de la transacción
+          - not_null
+      - name: id_cli
+        tests:
+          - relationships: # Test 4: Valida Integridad Referencial (que el cliente exista en la maestra)
+              to: ref('silver_clientes')
+              field: id_cli
+
+  - name: silver_comisiones_clean
+    description: "Comisiones que pasaron el filtro de integridad referencial"
+    columns:
+      - name: id_comision
+        tests:
+          - unique    # Test 5: Valida que no haya cobros de comisiones duplicados
+          - not_null

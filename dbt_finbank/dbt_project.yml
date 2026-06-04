@@ -1,0 +1,23 @@
+name: 'dbt_finbank'
+version: '1.0.0'
+config-version: 2
+
+# ¡ESTE NOMBRE DEBE SER IGUAL AL DEL PROFILES.YML!
+profile: 'dbt_finbank_profile'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:
+  - "target"
+
+models:
+  dbt_finbank:
+    silver:
+      materialized: table
+    gold:
+      materialized: table

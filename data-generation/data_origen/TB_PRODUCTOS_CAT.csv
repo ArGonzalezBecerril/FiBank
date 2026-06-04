@@ -1,0 +1,51 @@
+cod_prod,desc_prod,tip_prod,tasa_ea,plazo_max_meses,cuota_min,comision_admin,estado_prod
+PROD_01,Pago PSE Premium v1,transaccional,0.0,0,0,12000.0,Activo
+PROD_02,Credito Consumo Premium v2,credito,0.28,36,50000,12000.0,Activo
+PROD_03,Transferencia ACH Premium v3,transaccional,0.0,0,0,5000.0,Activo
+PROD_04,Tarjeta Digital Premium v4,credito,0.34,12,0,12000.0,Activo
+PROD_05,Cuenta de Ahorros Premium v5,ahorro,0.1,0,0,0.0,Activo
+PROD_06,Tarjeta Digital Premium v6,credito,0.34,12,0,12000.0,Activo
+PROD_07,Cuenta de Ahorros Premium v7,ahorro,0.1,0,0,12000.0,Activo
+PROD_08,Tarjeta Digital Premium v8,credito,0.34,12,0,12000.0,Activo
+PROD_09,Credito Consumo Premium v9,credito,0.28,36,50000,12000.0,Activo
+PROD_10,Credito Consumo Premium v10,credito,0.28,36,50000,5000.0,Activo
+PROD_11,Transferencia ACH Premium v11,transaccional,0.0,0,0,0.0,Activo
+PROD_12,Pago PSE Premium v12,transaccional,0.0,0,0,5000.0,Activo
+PROD_13,Tarjeta Digital Premium v13,credito,0.34,12,0,0.0,Activo
+PROD_14,Cuenta de Ahorros Premium v14,ahorro,0.1,0,0,5000.0,Activo
+PROD_15,Transferencia ACH Premium v15,transaccional,0.0,0,0,0.0,Activo
+PROD_16,Tarjeta Digital Premium v16,credito,0.34,12,0,0.0,Activo
+PROD_17,Pago PSE Premium v17,transaccional,0.0,0,0,5000.0,Activo
+PROD_18,Pago PSE Premium v18,transaccional,0.0,0,0,12000.0,Activo
+PROD_19,Cuenta de Ahorros Premium v19,ahorro,0.1,0,0,0.0,Activo
+PROD_20,Cuenta de Ahorros Premium v20,ahorro,0.1,0,0,5000.0,Activo
+PROD_21,Cuenta de Ahorros Premium v21,ahorro,0.1,0,0,12000.0,Activo
+PROD_22,Cuenta de Ahorros Premium v22,ahorro,0.1,0,0,0.0,Activo
+PROD_23,Transferencia ACH Premium v23,transaccional,0.0,0,0,0.0,Activo
+PROD_24,Tarjeta Digital Premium v24,credito,0.34,12,0,0.0,Activo
+PROD_25,Transferencia ACH Premium v25,transaccional,0.0,0,0,12000.0,Activo
+PROD_26,Cuenta de Ahorros Premium v26,ahorro,0.1,0,0,0.0,Activo
+PROD_27,Transferencia ACH Premium v27,transaccional,0.0,0,0,0.0,Activo
+PROD_28,Cuenta de Ahorros Premium v28,ahorro,0.1,0,0,12000.0,Activo
+PROD_29,Credito Consumo Premium v29,credito,0.28,36,50000,5000.0,Activo
+PROD_30,Cuenta de Ahorros Premium v30,ahorro,0.1,0,0,12000.0,Activo
+PROD_31,Cuenta de Ahorros Premium v31,ahorro,0.1,0,0,12000.0,Activo
+PROD_32,Transferencia ACH Premium v32,transaccional,0.0,0,0,12000.0,Activo
+PROD_33,Cuenta de Ahorros Premium v33,ahorro,0.1,0,0,0.0,Activo
+PROD_34,Tarjeta Digital Premium v34,credito,0.34,12,0,5000.0,Activo
+PROD_35,Credito Consumo Premium v35,credito,0.28,36,50000,12000.0,Activo
+PROD_36,Pago PSE Premium v36,transaccional,0.0,0,0,5000.0,Activo
+PROD_37,Pago PSE Premium v37,transaccional,0.0,0,0,0.0,Activo
+PROD_38,Credito Consumo Premium v38,credito,0.28,36,50000,12000.0,Activo
+PROD_39,Transferencia ACH Premium v39,transaccional,0.0,0,0,12000.0,Activo
+PROD_40,Cuenta de Ahorros Premium v40,ahorro,0.1,0,0,12000.0,Activo
+PROD_41,Transferencia ACH Premium v41,transaccional,0.0,0,0,0.0,Activo
+PROD_42,Tarjeta Digital Premium v42,credito,0.34,12,0,0.0,Activo
+PROD_43,Credito Consumo Premium v43,credito,0.28,36,50000,5000.0,Activo
+PROD_44,Transferencia ACH Premium v44,transaccional,0.0,0,0,0.0,Activo
+PROD_45,Credito Consumo Premium v45,credito,0.28,36,50000,0.0,Activo
+PROD_46,Pago PSE Premium v46,transaccional,0.0,0,0,0.0,Activo
+PROD_47,Transferencia ACH Premium v47,transaccional,0.0,0,0,5000.0,Activo
+PROD_48,Cuenta de Ahorros Premium v48,ahorro,0.1,0,0,12000.0,Activo
+PROD_49,Pago PSE Premium v49,transaccional,0.0,0,0,5000.0,Activo
+PROD_50,Pago PSE Premium v50,transaccional,0.0,0,0,12000.0,Activo

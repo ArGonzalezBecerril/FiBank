@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: bronze_layer
+    database: AwsDataCatalog
+    schema: finbank_dev_catalog # Tu base de datos lógica en AWS Glue
+    tables:
+      - name: clientes
+        identifier: tb_clientes_core
+      - name: movimientos
+        identifier: tb_mov_financieros
+      - name: obligaciones
+        identifier: tb_obligaciones
+      - name: comisiones
+        identifier: tb_comisiones_log

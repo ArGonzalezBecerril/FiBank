@@ -1,0 +1,87 @@
+// Modelo Relacional Sistema Transaccional Legado - FinBank S.A.
+
+Table tb_clientes_core {
+  id_cli varchar [pk]
+  nomb_cli varchar
+  apell_cli varchar
+  tip_doc varchar
+  num_doc varchar
+  fec_nac date
+  fec_alta timestamp
+  cod_segmento varchar
+  score_buro integer
+  ciudad_res varchar
+  depto_res varchar
+  estado_cli varchar
+  canal_adquis varchar
+}
+
+Table tb_productos_cat {
+  cod_prod varchar [pk]
+  desc_prod varchar
+  tip_prod varchar
+  tasa_ea float
+  plazo_max_meses integer
+  cuota_min float
+  comision_admin float
+  estado_prod varchar
+}
+
+Table tb_mov_financieros {
+  id_mov varchar [pk]
+  id_cli varchar
+  cod_prod varchar
+  num_cuenta varchar
+  fec_mov date
+  hra_mov varchar
+  vr_mov float
+  tip_mov varchar
+  cod_canal varchar
+  cod_ciudad varchar
+  cod_estado_mov varchar
+  id_dispositivo varchar
+}
+
+Table tb_obligaciones {
+  id_oblig varchar [pk]
+  id_cli varchar
+  cod_prod varchar
+  vr_aprobado float
+  vr_desembolsado float
+  sdo_capital float
+  vr_cuota float
+  fec_desembolso timestamp
+  fec_venc timestamp
+  dias_mora_act integer
+  num_cuotas_pend integer
+  calif_riesgo varchar
+}
+
+Table tb_sucursales_red {
+  cod_suc varchar [pk]
+  nom_suc varchar
+  tip_punto varchar
+  ciudad varchar
+  depto varchar
+  latitud float
+  longitud float
+  activo integer
+}
+
+Table tb_comisiones_log {
+  id_comision varchar [pk]
+  id_cli varchar
+  cod_prod varchar
+  fec_cobro date
+  vr_comision float
+  tip_comision varchar
+  estado_cobro varchar
+}
+
+// Relaciones del Sistema de Origen (Integridad Referencial)
+Ref: tb_clientes_core.id_cli < tb_mov_financieros.id_cli
+Ref: tb_clientes_core.id_cli < tb_obligaciones.id_cli
+Ref: tb_clientes_core.id_cli < tb_comisiones_log.id_cli
+Ref: tb_productos_cat.cod_prod < tb_mov_financieros.cod_prod
+Ref: tb_productos_cat.cod_prod < tb_obligaciones.cod_prod
+Ref: tb_productos_cat.cod_prod < tb_comisiones_log.cod_prod

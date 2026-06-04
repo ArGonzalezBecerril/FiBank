@@ -1,0 +1,201 @@
+cod_suc,nom_suc,tip_punto,ciudad,depto,latitud,longitud,activo
+SUC_001,Sucursal Bogotá Nro 1,Fisico,Bogotá,Cundinamarca,4.735155049975984,-74.09761081461966,1
+SUC_002,Sucursal Bogotá Nro 2,Corresponsal,Bogotá,Cundinamarca,4.735066774466768,-74.06756334662518,1
+SUC_003,Sucursal Bogotá Nro 3,Fisico,Bogotá,Cundinamarca,4.670369523986159,-74.09883391066093,1
+SUC_004,Sucursal Buenos Aires Nro 4,Fisico,Buenos Aires,CABA,-34.58209803870776,-58.36146750264098,1
+SUC_005,Sucursal Santiago Nro 5,Corresponsal,Santiago,Metropolitana,-33.471080929176935,-70.63236996792071,1
+SUC_006,Sucursal Ciudad de México Nro 6,Corresponsal,Ciudad de México,CDMX,19.424861439815352,-99.15541286583284,1
+SUC_007,Sucursal Lima Nro 7,Fisico,Lima,Lima,-12.087125415661985,-77.08312836231666,1
+SUC_008,Sucursal Buenos Aires Nro 8,Digital,Buenos Aires,CABA,-34.57298717267256,-58.35862682133062,1
+SUC_009,Sucursal Santiago Nro 9,Fisico,Santiago,Metropolitana,-33.44369593687268,-70.6363595335747,1
+SUC_010,Sucursal Lima Nro 10,Corresponsal,Lima,Lima,-12.077171140974334,-77.08584448511762,1
+SUC_011,Sucursal Lima Nro 11,Fisico,Lima,Lima,-12.010868227898486,-77.00615163332448,1
+SUC_012,Sucursal Santiago Nro 12,Corresponsal,Santiago,Metropolitana,-33.415488957335924,-70.7030345902844,1
+SUC_013,Sucursal Lima Nro 13,Corresponsal,Lima,Lima,-12.002734541228751,-77.02799646147534,1
+SUC_014,Sucursal Ciudad de México Nro 14,Corresponsal,Ciudad de México,CDMX,19.455512679795035,-99.16685975062381,1
+SUC_015,Sucursal Buenos Aires Nro 15,Fisico,Buenos Aires,CABA,-34.58523857490101,-58.347314807981014,1
+SUC_016,Sucursal Ciudad de México Nro 16,Fisico,Ciudad de México,CDMX,19.463104580077122,-99.14308352129777,1
+SUC_017,Sucursal Buenos Aires Nro 17,Corresponsal,Buenos Aires,CABA,-34.622232211920156,-58.36605613347051,1
+SUC_018,Sucursal Santiago Nro 18,Fisico,Santiago,Metropolitana,-33.4724119833502,-70.69463724923061,1
+SUC_019,Sucursal Lima Nro 19,Corresponsal,Lima,Lima,-12.037941400977646,-77.00301771163976,1
+SUC_020,Sucursal Ciudad de México Nro 20,Fisico,Ciudad de México,CDMX,19.433552629367647,-99.17410905878262,1
+SUC_021,Sucursal Bogotá Nro 21,Fisico,Bogotá,Cundinamarca,4.723744604170309,-74.04289206356371,1
+SUC_022,Sucursal Bogotá Nro 22,Digital,Bogotá,Cundinamarca,4.699161928650654,-74.022487861976,1
+SUC_023,Sucursal Buenos Aires Nro 23,Fisico,Buenos Aires,CABA,-34.58567165897435,-58.42014482570163,1
+SUC_024,Sucursal Lima Nro 24,Corresponsal,Lima,Lima,-12.062382452696896,-77.06344998713526,1
+SUC_025,Sucursal Bogotá Nro 25,Corresponsal,Bogotá,Cundinamarca,4.74858529403782,-74.0957610949249,1
+SUC_026,Sucursal Ciudad de México Nro 26,Corresponsal,Ciudad de México,CDMX,19.473862783934482,-99.09614814301632,1
+SUC_027,Sucursal Buenos Aires Nro 27,Corresponsal,Buenos Aires,CABA,-34.63380888982353,-58.39420861474088,1
+SUC_028,Sucursal Buenos Aires Nro 28,Fisico,Buenos Aires,CABA,-34.593805541553984,-58.3827394291971,1
+SUC_029,Sucursal Lima Nro 29,Digital,Lima,Lima,-12.072454768966194,-77.06871284075528,1
+SUC_030,Sucursal Bogotá Nro 30,Fisico,Bogotá,Cundinamarca,4.734190759484463,-74.040497674658,0
+SUC_031,Sucursal Buenos Aires Nro 31,Fisico,Buenos Aires,CABA,-34.64086085355003,-58.384071762190125,1
+SUC_032,Sucursal Lima Nro 32,Corresponsal,Lima,Lima,-12.009156695891475,-77.05048620597991,1
+SUC_033,Sucursal Buenos Aires Nro 33,Corresponsal,Buenos Aires,CABA,-34.584713236790044,-58.36030510271809,1
+SUC_034,Sucursal Lima Nro 34,Digital,Lima,Lima,-12.006438591535705,-77.04765138586089,1
+SUC_035,Sucursal Bogotá Nro 35,Digital,Bogotá,Cundinamarca,4.663103426000706,-74.06670784775756,1
+SUC_036,Sucursal Bogotá Nro 36,Fisico,Bogotá,Cundinamarca,4.731784094654846,-74.11621262331238,1
+SUC_037,Sucursal Bogotá Nro 37,Digital,Bogotá,Cundinamarca,4.668085734988866,-74.0982995365631,1
+SUC_038,Sucursal Ciudad de México Nro 38,Corresponsal,Ciudad de México,CDMX,19.395831184872502,-99.08964857594194,1
+SUC_039,Sucursal Santiago Nro 39,Fisico,Santiago,Metropolitana,-33.42043805757093,-70.63855030022334,1
+SUC_040,Sucursal Bogotá Nro 40,Corresponsal,Bogotá,Cundinamarca,4.704105118240638,-74.07974213769802,1
+SUC_041,Sucursal Bogotá Nro 41,Corresponsal,Bogotá,Cundinamarca,4.726345548826579,-74.05748202487051,1
+SUC_042,Sucursal Lima Nro 42,Fisico,Lima,Lima,-12.071534366607972,-77.07377910915592,1
+SUC_043,Sucursal Santiago Nro 43,Fisico,Santiago,Metropolitana,-33.47104548553331,-70.6943193552118,1
+SUC_044,Sucursal Santiago Nro 44,Corresponsal,Santiago,Metropolitana,-33.489109127179844,-70.65408551060015,1
+SUC_045,Sucursal Bogotá Nro 45,Fisico,Bogotá,Cundinamarca,4.753636698300813,-74.03723042655858,1
+SUC_046,Sucursal Santiago Nro 46,Digital,Santiago,Metropolitana,-33.477525270080086,-70.67919597074506,1
+SUC_047,Sucursal Santiago Nro 47,Fisico,Santiago,Metropolitana,-33.40036911562203,-70.69277969418279,1
+SUC_048,Sucursal Santiago Nro 48,Digital,Santiago,Metropolitana,-33.45659925140099,-70.62356823591404,0
+SUC_049,Sucursal Buenos Aires Nro 49,Corresponsal,Buenos Aires,CABA,-34.581859172470374,-58.41612031747259,1
+SUC_050,Sucursal Bogotá Nro 50,Corresponsal,Bogotá,Cundinamarca,4.734573717878905,-74.11600424285236,1
+SUC_051,Sucursal Bogotá Nro 51,Corresponsal,Bogotá,Cundinamarca,4.708678851710894,-74.0301612869168,1
+SUC_052,Sucursal Bogotá Nro 52,Corresponsal,Bogotá,Cundinamarca,4.669011146524059,-74.10351750390194,1
+SUC_053,Sucursal Ciudad de México Nro 53,Digital,Ciudad de México,CDMX,19.394588661394714,-99.09417126858706,1
+SUC_054,Sucursal Buenos Aires Nro 54,Fisico,Buenos Aires,CABA,-34.59176184896679,-58.38967750846641,1
+SUC_055,Sucursal Buenos Aires Nro 55,Digital,Buenos Aires,CABA,-34.56022937422636,-58.41117408005765,1
+SUC_056,Sucursal Ciudad de México Nro 56,Digital,Ciudad de México,CDMX,19.422178584679127,-99.116030977704,1
+SUC_057,Sucursal Lima Nro 57,Fisico,Lima,Lima,-12.095468454311575,-77.03068407445069,1
+SUC_058,Sucursal Bogotá Nro 58,Fisico,Bogotá,Cundinamarca,4.714763440410163,-74.07151153059513,1
+SUC_059,Sucursal Lima Nro 59,Fisico,Lima,Lima,-12.008472975751546,-77.05584729112611,1
+SUC_060,Sucursal Buenos Aires Nro 60,Corresponsal,Buenos Aires,CABA,-34.62344828570212,-58.333214668974854,1
+SUC_061,Sucursal Buenos Aires Nro 61,Fisico,Buenos Aires,CABA,-34.58691367962874,-58.37613977175103,1
+SUC_062,Sucursal Bogotá Nro 62,Fisico,Bogotá,Cundinamarca,4.687446592148713,-74.03312872929943,1
+SUC_063,Sucursal Ciudad de México Nro 63,Digital,Ciudad de México,CDMX,19.41077562714579,-99.1621370345193,1
+SUC_064,Sucursal Lima Nro 64,Corresponsal,Lima,Lima,-12.047546814785063,-77.00226635089207,1
+SUC_065,Sucursal Bogotá Nro 65,Corresponsal,Bogotá,Cundinamarca,4.703357577256373,-74.09443197760278,1
+SUC_066,Sucursal Ciudad de México Nro 66,Corresponsal,Ciudad de México,CDMX,19.480579795382884,-99.16704180237261,1
+SUC_067,Sucursal Santiago Nro 67,Corresponsal,Santiago,Metropolitana,-33.49793303003917,-70.71177561399263,1
+SUC_068,Sucursal Ciudad de México Nro 68,Corresponsal,Ciudad de México,CDMX,19.386202813806083,-99.14627840154878,1
+SUC_069,Sucursal Santiago Nro 69,Fisico,Santiago,Metropolitana,-33.49471711418312,-70.68283484846728,1
+SUC_070,Sucursal Bogotá Nro 70,Digital,Bogotá,Cundinamarca,4.682007653833976,-74.0971470260777,1
+SUC_071,Sucursal Buenos Aires Nro 71,Digital,Buenos Aires,CABA,-34.556316297736274,-58.356652238885644,1
+SUC_072,Sucursal Ciudad de México Nro 72,Fisico,Ciudad de México,CDMX,19.4802206032931,-99.10212282800596,1
+SUC_073,Sucursal Bogotá Nro 73,Fisico,Bogotá,Cundinamarca,4.734656447175508,-74.08888145320536,1
+SUC_074,Sucursal Ciudad de México Nro 74,Digital,Ciudad de México,CDMX,19.398519784298074,-99.11307218118601,1
+SUC_075,Sucursal Bogotá Nro 75,Digital,Bogotá,Cundinamarca,4.683243371754567,-74.0404413394403,1
+SUC_076,Sucursal Lima Nro 76,Fisico,Lima,Lima,-12.074107645279419,-77.02679668172513,1
+SUC_077,Sucursal Lima Nro 77,Fisico,Lima,Lima,-11.999711089595165,-77.0648875007278,1
+SUC_078,Sucursal Santiago Nro 78,Corresponsal,Santiago,Metropolitana,-33.40078503128018,-70.66567842675214,1
+SUC_079,Sucursal Bogotá Nro 79,Digital,Bogotá,Cundinamarca,4.678856781617247,-74.02584656842384,1
+SUC_080,Sucursal Bogotá Nro 80,Corresponsal,Bogotá,Cundinamarca,4.704456375856465,-74.04924549393473,1
+SUC_081,Sucursal Buenos Aires Nro 81,Corresponsal,Buenos Aires,CABA,-34.64213542159707,-58.34164952670888,1
+SUC_082,Sucursal Bogotá Nro 82,Corresponsal,Bogotá,Cundinamarca,4.704605751545498,-74.07010796514335,1
+SUC_083,Sucursal Ciudad de México Nro 83,Digital,Ciudad de México,CDMX,19.4257297399625,-99.08831255140286,1
+SUC_084,Sucursal Buenos Aires Nro 84,Digital,Buenos Aires,CABA,-34.58736125237345,-58.41913746843356,1
+SUC_085,Sucursal Buenos Aires Nro 85,Digital,Buenos Aires,CABA,-34.58701070958943,-58.39898170951426,1
+SUC_086,Sucursal Buenos Aires Nro 86,Fisico,Buenos Aires,CABA,-34.63451599070099,-58.36510705657872,1
+SUC_087,Sucursal Ciudad de México Nro 87,Corresponsal,Ciudad de México,CDMX,19.439510525486583,-99.14259248312419,1
+SUC_088,Sucursal Lima Nro 88,Digital,Lima,Lima,-12.075381731511737,-77.01422411725224,1
+SUC_089,Sucursal Lima Nro 89,Digital,Lima,Lima,-12.052221398316204,-77.02523727668098,1
+SUC_090,Sucursal Ciudad de México Nro 90,Corresponsal,Ciudad de México,CDMX,19.391079553672512,-99.13165479900849,1
+SUC_091,Sucursal Lima Nro 91,Fisico,Lima,Lima,-12.014557653546333,-77.01768618624592,1
+SUC_092,Sucursal Ciudad de México Nro 92,Fisico,Ciudad de México,CDMX,19.397335396224577,-99.17857862819072,0
+SUC_093,Sucursal Buenos Aires Nro 93,Fisico,Buenos Aires,CABA,-34.60815838316199,-58.342986309094904,1
+SUC_094,Sucursal Santiago Nro 94,Digital,Santiago,Metropolitana,-33.458934713712345,-70.70454286549088,1
+SUC_095,Sucursal Bogotá Nro 95,Digital,Bogotá,Cundinamarca,4.682884113681232,-74.0416890143827,1
+SUC_096,Sucursal Santiago Nro 96,Fisico,Santiago,Metropolitana,-33.443159420596665,-70.62755299855446,1
+SUC_097,Sucursal Ciudad de México Nro 97,Digital,Ciudad de México,CDMX,19.449357773258637,-99.08441075469335,1
+SUC_098,Sucursal Santiago Nro 98,Corresponsal,Santiago,Metropolitana,-33.41739934926683,-70.63009797036591,1
+SUC_099,Sucursal Buenos Aires Nro 99,Digital,Buenos Aires,CABA,-34.56397918967668,-58.35723445578404,1
+SUC_100,Sucursal Lima Nro 100,Fisico,Lima,Lima,-12.012413711215808,-77.06506886468692,1
+SUC_101,Sucursal Santiago Nro 101,Corresponsal,Santiago,Metropolitana,-33.47497541361854,-70.67531274067352,1
+SUC_102,Sucursal Ciudad de México Nro 102,Digital,Ciudad de México,CDMX,19.416184753662133,-99.09389731672097,1
+SUC_103,Sucursal Ciudad de México Nro 103,Fisico,Ciudad de México,CDMX,19.420903529243134,-99.16791947334228,1
+SUC_104,Sucursal Santiago Nro 104,Digital,Santiago,Metropolitana,-33.465811860896196,-70.6727075696649,1
+SUC_105,Sucursal Santiago Nro 105,Digital,Santiago,Metropolitana,-33.408416152165984,-70.66089205857959,1
+SUC_106,Sucursal Buenos Aires Nro 106,Digital,Buenos Aires,CABA,-34.60600202674427,-58.33732583425659,1
+SUC_107,Sucursal Santiago Nro 107,Digital,Santiago,Metropolitana,-33.44507794323898,-70.64583659392437,1
+SUC_108,Sucursal Ciudad de México Nro 108,Digital,Ciudad de México,CDMX,19.404542163462143,-99.13961640239533,1
+SUC_109,Sucursal Lima Nro 109,Corresponsal,Lima,Lima,-12.028485811497164,-77.05236833308624,1
+SUC_110,Sucursal Santiago Nro 110,Fisico,Santiago,Metropolitana,-33.40082780224811,-70.66588763704675,1
+SUC_111,Sucursal Buenos Aires Nro 111,Corresponsal,Buenos Aires,CABA,-34.58740002431639,-58.4232052537838,1
+SUC_112,Sucursal Santiago Nro 112,Fisico,Santiago,Metropolitana,-33.49387153665114,-70.68138961358119,1
+SUC_113,Sucursal Lima Nro 113,Digital,Lima,Lima,-12.020277029210597,-77.05488737844358,1
+SUC_114,Sucursal Santiago Nro 114,Digital,Santiago,Metropolitana,-33.41540890850879,-70.6722693163787,1
+SUC_115,Sucursal Bogotá Nro 115,Digital,Bogotá,Cundinamarca,4.683422216571975,-74.11523816295472,0
+SUC_116,Sucursal Bogotá Nro 116,Fisico,Bogotá,Cundinamarca,4.755961173271599,-74.10216393176376,1
+SUC_117,Sucursal Ciudad de México Nro 117,Fisico,Ciudad de México,CDMX,19.395222097487423,-99.11625411553801,1
+SUC_118,Sucursal Ciudad de México Nro 118,Digital,Ciudad de México,CDMX,19.452546497124615,-99.10651019016437,1
+SUC_119,Sucursal Buenos Aires Nro 119,Corresponsal,Buenos Aires,CABA,-34.581864277140404,-58.353820811382455,1
+SUC_120,Sucursal Lima Nro 120,Fisico,Lima,Lima,-12.038531526749075,-76.99991128315929,1
+SUC_121,Sucursal Santiago Nro 121,Digital,Santiago,Metropolitana,-33.40475294014587,-70.69946702229083,1
+SUC_122,Sucursal Ciudad de México Nro 122,Fisico,Ciudad de México,CDMX,19.452319300249577,-99.15304173145124,1
+SUC_123,Sucursal Bogotá Nro 123,Corresponsal,Bogotá,Cundinamarca,4.739263534636102,-74.08737962346916,1
+SUC_124,Sucursal Lima Nro 124,Fisico,Lima,Lima,-12.045803921032292,-77.05867688251386,1
+SUC_125,Sucursal Santiago Nro 125,Fisico,Santiago,Metropolitana,-33.45554765986742,-70.6830811961505,1
+SUC_126,Sucursal Santiago Nro 126,Corresponsal,Santiago,Metropolitana,-33.48360088509062,-70.7016863038914,1
+SUC_127,Sucursal Lima Nro 127,Corresponsal,Lima,Lima,-12.015580078119324,-77.03898270935517,1
+SUC_128,Sucursal Santiago Nro 128,Corresponsal,Santiago,Metropolitana,-33.43965253809363,-70.6870695417019,1
+SUC_129,Sucursal Bogotá Nro 129,Digital,Bogotá,Cundinamarca,4.749163118400277,-74.09771365608091,1
+SUC_130,Sucursal Buenos Aires Nro 130,Corresponsal,Buenos Aires,CABA,-34.61580106958718,-58.42873000022299,1
+SUC_131,Sucursal Ciudad de México Nro 131,Digital,Ciudad de México,CDMX,19.403811985017974,-99.10341676431719,1
+SUC_132,Sucursal Buenos Aires Nro 132,Corresponsal,Buenos Aires,CABA,-34.56568926547448,-58.37602089720804,1
+SUC_133,Sucursal Ciudad de México Nro 133,Fisico,Ciudad de México,CDMX,19.40673560503727,-99.14255718753294,1
+SUC_134,Sucursal Ciudad de México Nro 134,Corresponsal,Ciudad de México,CDMX,19.430209311078418,-99.11201575935273,1
+SUC_135,Sucursal Bogotá Nro 135,Fisico,Bogotá,Cundinamarca,4.69042355813205,-74.08165988713222,1
+SUC_136,Sucursal Buenos Aires Nro 136,Digital,Buenos Aires,CABA,-34.60637395112405,-58.37850780688542,1
+SUC_137,Sucursal Buenos Aires Nro 137,Digital,Buenos Aires,CABA,-34.618518947238584,-58.38622547371468,1
+SUC_138,Sucursal Ciudad de México Nro 138,Fisico,Ciudad de México,CDMX,19.45472843313261,-99.15164520559941,1
+SUC_139,Sucursal Ciudad de México Nro 139,Fisico,Ciudad de México,CDMX,19.404238463987863,-99.13478014127872,1
+SUC_140,Sucursal Buenos Aires Nro 140,Corresponsal,Buenos Aires,CABA,-34.62540012967251,-58.42154738919092,1
+SUC_141,Sucursal Ciudad de México Nro 141,Digital,Ciudad de México,CDMX,19.400544154368543,-99.1817851632744,1
+SUC_142,Sucursal Lima Nro 142,Fisico,Lima,Lima,-11.998970506889727,-77.03746410332013,1
+SUC_143,Sucursal Ciudad de México Nro 143,Corresponsal,Ciudad de México,CDMX,19.469446119726296,-99.13411213054762,1
+SUC_144,Sucursal Buenos Aires Nro 144,Digital,Buenos Aires,CABA,-34.60676030550695,-58.387553120186396,1
+SUC_145,Sucursal Bogotá Nro 145,Digital,Bogotá,Cundinamarca,4.755106359676811,-74.07432708127344,1
+SUC_146,Sucursal Santiago Nro 146,Digital,Santiago,Metropolitana,-33.491491782974435,-70.65635542930481,1
+SUC_147,Sucursal Ciudad de México Nro 147,Corresponsal,Ciudad de México,CDMX,19.477512564235806,-99.17468190916038,1
+SUC_148,Sucursal Buenos Aires Nro 148,Digital,Buenos Aires,CABA,-34.59306823487571,-58.352525917015654,1
+SUC_149,Sucursal Buenos Aires Nro 149,Digital,Buenos Aires,CABA,-34.60864855351113,-58.38732789959806,1
+SUC_150,Sucursal Santiago Nro 150,Digital,Santiago,Metropolitana,-33.44203705293758,-70.71327696956276,0
+SUC_151,Sucursal Bogotá Nro 151,Fisico,Bogotá,Cundinamarca,4.72355150304066,-74.095635387471,1
+SUC_152,Sucursal Ciudad de México Nro 152,Fisico,Ciudad de México,CDMX,19.437799224557775,-99.16754673845568,1
+SUC_153,Sucursal Buenos Aires Nro 153,Digital,Buenos Aires,CABA,-34.6245740710969,-58.408452376544396,1
+SUC_154,Sucursal Santiago Nro 154,Fisico,Santiago,Metropolitana,-33.43016150799288,-70.62690889555175,1
+SUC_155,Sucursal Buenos Aires Nro 155,Corresponsal,Buenos Aires,CABA,-34.57330943197186,-58.41181807862435,1
+SUC_156,Sucursal Ciudad de México Nro 156,Corresponsal,Ciudad de México,CDMX,19.397498940107532,-99.15663675283594,1
+SUC_157,Sucursal Bogotá Nro 157,Fisico,Bogotá,Cundinamarca,4.740262856623241,-74.06259559626807,1
+SUC_158,Sucursal Lima Nro 158,Digital,Lima,Lima,-12.083964634182529,-77.02393220087879,1
+SUC_159,Sucursal Lima Nro 159,Corresponsal,Lima,Lima,-12.0424018437402,-77.04902411364284,1
+SUC_160,Sucursal Santiago Nro 160,Corresponsal,Santiago,Metropolitana,-33.46666784166417,-70.6942632097588,1
+SUC_161,Sucursal Buenos Aires Nro 161,Corresponsal,Buenos Aires,CABA,-34.55862137221937,-58.331642758312256,1
+SUC_162,Sucursal Lima Nro 162,Corresponsal,Lima,Lima,-12.092376832685538,-77.01717311695874,1
+SUC_163,Sucursal Santiago Nro 163,Digital,Santiago,Metropolitana,-33.48075108527769,-70.66076703747223,1
+SUC_164,Sucursal Santiago Nro 164,Fisico,Santiago,Metropolitana,-33.45189896050397,-70.67846519065701,1
+SUC_165,Sucursal Bogotá Nro 165,Fisico,Bogotá,Cundinamarca,4.693980366357897,-74.05273263260166,1
+SUC_166,Sucursal Santiago Nro 166,Corresponsal,Santiago,Metropolitana,-33.49523028696863,-70.71049402072242,1
+SUC_167,Sucursal Bogotá Nro 167,Digital,Bogotá,Cundinamarca,4.747491058405188,-74.03960727967313,1
+SUC_168,Sucursal Buenos Aires Nro 168,Digital,Buenos Aires,CABA,-34.61237524292007,-58.41284174586055,1
+SUC_169,Sucursal Santiago Nro 169,Corresponsal,Santiago,Metropolitana,-33.45469590442777,-70.71413882248137,1
+SUC_170,Sucursal Ciudad de México Nro 170,Digital,Ciudad de México,CDMX,19.426411609507237,-99.11337499708779,1
+SUC_171,Sucursal Buenos Aires Nro 171,Fisico,Buenos Aires,CABA,-34.582721717489974,-58.40052498616067,1
+SUC_172,Sucursal Santiago Nro 172,Fisico,Santiago,Metropolitana,-33.47642993405442,-70.6351594318383,1
+SUC_173,Sucursal Bogotá Nro 173,Corresponsal,Bogotá,Cundinamarca,4.7442143173768905,-74.07226244952929,1
+SUC_174,Sucursal Buenos Aires Nro 174,Corresponsal,Buenos Aires,CABA,-34.626357510328674,-58.34812760544233,0
+SUC_175,Sucursal Ciudad de México Nro 175,Digital,Ciudad de México,CDMX,19.437726507688048,-99.14484139867528,1
+SUC_176,Sucursal Buenos Aires Nro 176,Corresponsal,Buenos Aires,CABA,-34.565767374485354,-58.34519730655714,1
+SUC_177,Sucursal Santiago Nro 177,Digital,Santiago,Metropolitana,-33.40547516063175,-70.66852623241904,1
+SUC_178,Sucursal Lima Nro 178,Corresponsal,Lima,Lima,-12.066544415022824,-77.03410622775858,0
+SUC_179,Sucursal Santiago Nro 179,Fisico,Santiago,Metropolitana,-33.454245260695686,-70.67086586144484,1
+SUC_180,Sucursal Buenos Aires Nro 180,Digital,Buenos Aires,CABA,-34.60816553831335,-58.3994222649771,1
+SUC_181,Sucursal Ciudad de México Nro 181,Corresponsal,Ciudad de México,CDMX,19.42089708489296,-99.09759870240127,1
+SUC_182,Sucursal Lima Nro 182,Corresponsal,Lima,Lima,-12.04910237497596,-77.00145698321803,1
+SUC_183,Sucursal Ciudad de México Nro 183,Digital,Ciudad de México,CDMX,19.479082443837093,-99.17057537301906,0
+SUC_184,Sucursal Lima Nro 184,Fisico,Lima,Lima,-12.008980962594569,-77.04876937902293,1
+SUC_185,Sucursal Santiago Nro 185,Fisico,Santiago,Metropolitana,-33.426655617242936,-70.67830213802537,1
+SUC_186,Sucursal Ciudad de México Nro 186,Fisico,Ciudad de México,CDMX,19.429549060098473,-99.08627963694258,1
+SUC_187,Sucursal Santiago Nro 187,Corresponsal,Santiago,Metropolitana,-33.49086846794206,-70.68644344110166,1
+SUC_188,Sucursal Buenos Aires Nro 188,Digital,Buenos Aires,CABA,-34.558286040737734,-58.3689200820992,1
+SUC_189,Sucursal Santiago Nro 189,Corresponsal,Santiago,Metropolitana,-33.49531009001623,-70.71245792528185,1
+SUC_190,Sucursal Lima Nro 190,Fisico,Lima,Lima,-12.021723363326208,-77.04940285280769,1
+SUC_191,Sucursal Bogotá Nro 191,Digital,Bogotá,Cundinamarca,4.677636478672923,-74.0921533919756,1
+SUC_192,Sucursal Lima Nro 192,Fisico,Lima,Lima,-12.06706322240348,-77.05531589102247,1
+SUC_193,Sucursal Buenos Aires Nro 193,Digital,Buenos Aires,CABA,-34.59710719380841,-58.3523480526119,1
+SUC_194,Sucursal Bogotá Nro 194,Corresponsal,Bogotá,Cundinamarca,4.748083959864486,-74.06012896314627,1
+SUC_195,Sucursal Buenos Aires Nro 195,Fisico,Buenos Aires,CABA,-34.630481155570486,-58.36780953689964,1
+SUC_196,Sucursal Bogotá Nro 196,Digital,Bogotá,Cundinamarca,4.751120942359889,-74.0543389114301,1
+SUC_197,Sucursal Santiago Nro 197,Digital,Santiago,Metropolitana,-33.40013483047815,-70.68938457508763,0
+SUC_198,Sucursal Lima Nro 198,Digital,Lima,Lima,-12.01186960748574,-77.07287830008912,1
+SUC_199,Sucursal Santiago Nro 199,Fisico,Santiago,Metropolitana,-33.47517942980724,-70.66210773076493,1
+SUC_200,Sucursal Lima Nro 200,Fisico,Lima,Lima,-11.998605551542314,-77.02697701840714,1
