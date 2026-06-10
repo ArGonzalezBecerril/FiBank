@@ -58,9 +58,9 @@ default_args = {
 }
 
 with DAG(
-        'pipeline_fibank_oo_prod',
+        'pipeline_fibank_demo',
         default_args=default_args,
-        description='Pipeline End-to-End FiBank OO - Reto Técnico Selección 25',
+        description='Pipeline End-to-End FiBank  - Reto Técnico ',
         # Programación automática diaria a las 02:00 AM hora local
         start_date=datetime(2026, 1, 1, tzinfo=pendulum.timezone("America/Mexico_City")),
         schedule_interval='0 2 * * *',
